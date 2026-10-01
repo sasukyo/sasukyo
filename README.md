@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sasukyo/sasukyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![views](https://komarev.com/ghpvc/?username=sasukyo&label=!&color=000000)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://github.com/traummannn/traummannn/blob/cf41387a3cba8db3683d3ee692948530b8a4907d/ea1dd75964618f8a0f79a61b4f702591.jpg)
+
+<a href="https://facepaints.atabook.org/">
+  <img src="https://github.com/traummannn/traummannn/blob/60778b9281be17ef3b3f4a6806e8123bbe91c7f4/Untitled663_20260707195209.png" width="160">
+</a>
+
+    
+<a href="https://rentry.co/last-uchiha">
+  <img src="https://github.com/traummannn/traummannn/blob/7710104b8629cbbce8142917b12b4fac67730014/Untitled663_20260707195030.png" width="160">
+</a>
+
+</div>
