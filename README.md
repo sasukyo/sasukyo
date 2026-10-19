@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![views](https://komarev.com/ghpvc/?username=sasukyo&label=!&color=000000)
+![views](https://komarev.com/ghpvc/?username=sasukyo&label=uchiha&color=000000)
 
 
 ![](https://github.com/sasukyo/sasukyo/blob/ce5e685f3698c8633cf85346a4cbbb13461be698/Untitled769_20261019221617.png)
